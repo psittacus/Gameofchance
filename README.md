@@ -1,0 +1,2 @@
+# Gameofchance
+Glücksspiel in C++
